@@ -1,0 +1,38 @@
+ /*  */
+body {
+    background-color: blue;               /* font-family: 'Times New Roman', Times, serif; */
+    
+     
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #505050
+
+}
+
+.fs-40 {
+
+    font-size: 40px;
+}
+
+.right {
+
+    text-align: right;
+}
+
+
+h1 {
+
+    color: black;
+    font-size: 64px;
+    text-transform: uppercase;
+     text-align:center;             /*ortalamak için kullan !!!!! */
+
+}
+
+
+    p {
+        text-align:center;
+        
+}

@@ -1,0 +1,61 @@
+body {
+    margin:2%;
+}
+
+
+
+
+.google {
+        margin: auto;
+        width: fit-content;
+    }
+
+
+.section1 {
+    background: #eeeeee;
+    height: 65px; 
+    margin:0 26px 2px 20px;
+
+    display: block;
+    text-align: center;    
+    
+}
+
+
+.section2 {
+    height: 75px;
+    background: #7ee5da;
+    margin:0 2px 5px 20px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+.section3 {
+    height: 75px;
+    background: #70ccc2;
+    margin-right:2px;
+    width: 24%;
+    float: left;
+    text-align: center;
+    padding: 5px;
+}
+
+
+.section4 {
+    height: 75px;
+    background: #62b3aa;
+    margin-right:26px;
+    width: 40%;
+    float: left;
+    text-align: center;
+    padding: 5px;
+}
+
+.footer {
+
+    align-items:center ;
+}
+
